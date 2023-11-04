@@ -24,15 +24,5 @@
 | for문_resampling | [for문_resampling](./codes/MLs/Classifications/recurrenceOfSurgery_UnderSampling.ipynb) | UnderSampling |fo문을 통한 UnderSampling과 hypertuning |
 
 
-### 📚 QUEST
-| 제목 | 작성소스 | 과제 설명 | 비고 |
-|---|---|---|---|
-|지도학습|[QUEST](./codes/regression/NSC2_M20_quest.ipynb)| mongoDB를 통해 파일 select, 전처리, 학습, 평가, 예측 과정 진행|---|
-|linear regression|[QUES.ipynb](./codes/MLs/Regressions/RecurrenceOfSurgery_quest.ipynb), [QUEST.py](./codes/MLs/Regressions/RecurrenceOfSurgery_quest.py)|연속형 데이터 사용, linear regression 학습, 평가, 서비스(pickle)|---|
-|Logistic regression|[QUEST.ipynb](./codes/MLs/Classifications/BreastCancerWisconsinDataSet_quest.ipynb), [QUEST.py](./codes/MLs/Classifications/BreastCancerWisconsinDataSet_quest.py)|연속형 데이터 사용, diagnosis 전처리,Logistic regression 학습, 평가, 서비스(pickle)|---|
-|DecisionTreeClassifier|[목표변수의 전체데이터](./codes/MLs/Classifications/NSC_BND_M20_DecisionTreeClassifier_quest.ipynb), [목표변수의 범주 8개만](./codes/MLs/Classifications/NSC_BND_M20_DecisionTreeClassifier_quest_top8.ipynb)|DecisionTreeClassifier 전처리, 학습, 평가|---|
-|split/classification_report|[evaluation](./codes/MLs/Classifications/BreastCancerWisconsinDataSet_evaluation_quest.ipynb)|train_test_split() 적용, classification_report() 적용|---|
-|split/classification_report|[evaluation](./codes/MLs/Classifications/NSC_BND_M20_evaluation_quest.ipynb)|train_test_split() 적용, classification_report() 적용, 평가 의견 첨부|---|
-|GridSearchCV|[best_model](./codes/MLs/Classifications/RecurrenceOfSurgery_FeatureEngin_quest.ipynb)|목표변수(재발여부), 설명변수(3개), 최고 모델 찾기|---|
 
 
