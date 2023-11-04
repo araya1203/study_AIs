@@ -1,14 +1,14 @@
 # study_AIs
 📝 머신러닝 학습 자료
 
-## 💻 데이터분석을 위한 기초문법
+## ✔️  데이터분석을 위한 기초문법
 | 제목 | 작성소스 | 설명 | 비고 |
 |---|---|---|---|
 | concat | [numpys_concat](./codes/numpys.py) | numpy을 이용한 concat  | np.concatenate((, ), axis=)|
 | concat | [pandas_concat](./codes/pandass.ipynb) | pandas를 이용한 concat  | pd.concat([ , ], axis=)|
 | encoder, concat, Imbalanced Data Sampling | [pandas_encoder](./codes/sklearns.ipynb) | Encoding with One Hot Encoding & concat & Under/Over Sampling | oneHotEncoder.transform(df_[[' ']]).toarray()|
 
-## 💻 데이터분석
+## ✔️  데이터분석
 | 제목 | 작성소스 | 설명 | 비고 |
 |---|---|---|---|
 | 지도학습-이진분류 데이터 분석 | [TitanicFromDisaster](./codes/MLs/Classifications/TitanicFromDisaster.ipynb) | 지도학습-이진분류  |LogisticRegression |
